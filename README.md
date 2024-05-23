@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi ! ♡
 
+Hi, I'm a computer science student who wants to discover cybersecurity. You can follow my journey here through various projects! 
+
+---
 <!--
 **Lilix117/Lilix117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
